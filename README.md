@@ -1,26 +1,8 @@
-# Banggeut app development
+# Banggeut
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/ayoungs-projects-b3d8e422/v0-banggeut-app-development)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/niWRjImgUTr)
-
-## Overview
-
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
-
-## Deployment
-
-Your project is live at:
-
-**[https://vercel.com/ayoungs-projects-b3d8e422/v0-banggeut-app-development](https://vercel.com/ayoungs-projects-b3d8e422/v0-banggeut-app-development)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.app/chat/niWRjImgUTr](https://v0.app/chat/niWRjImgUTr)**
+## website Demo link
+https://v0-banggeut.vercel.app/
 
 
 ![1](https://github.com/user-attachments/assets/ff46010e-ae01-4c70-b9a9-8882249c29c8)
